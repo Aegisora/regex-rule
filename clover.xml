@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1787588010">
-  <project timestamp="1787588010">
+<coverage generated="1787588465">
+  <project timestamp="1787588465">
     <file name="/home/runner/work/regex-rule/regex-rule/src/RegexRule.php">
       <class name="Aegisora\Rules\RegexRule" namespace="global">
         <metrics complexity="8" methods="4" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="14" elements="18" coveredelements="18"/>
