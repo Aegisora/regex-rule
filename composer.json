@@ -1,8 +1,22 @@
 {
     "name": "aegisora/regex-rule",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Regex Rule provides a simple, rule-based regular expression validation implementation for the Aegisora ecosystem",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "regex",
+        "regexp",
+        "regular-expression",
+        "pattern",
+        "pattern-matching",
+        "pcre",
+        "preg-match",
+        "validation",
+        "rule",
+        "string-validation"
+    ],
     "homepage": "https://github.com/Aegisora/regex-rule",
     "support": {
         "issues": "https://github.com/Aegisora/regex-rule/issues",
