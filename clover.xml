@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648587867">
-  <project timestamp="1648587867">
-    <metrics files="0" loc="0" ncloc="0" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+<coverage generated="1787587542">
+  <project timestamp="1787587542">
+    <file name="/home/runner/work/regex-rule/regex-rule/src/RegexRule.php">
+      <class name="Aegisora\Rules\RegexRule" namespace="global">
+        <metrics complexity="8" methods="4" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="0" elements="18" coveredelements="0"/>
+      </class>
+      <line num="16" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="21" type="method" name="create" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="27" type="method" name="executeValidate" visibility="protected" complexity="4" crap="20" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="51" type="method" name="validatePattern" visibility="private" complexity="2" crap="6" count="0"/>
+      <line num="53" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="0"/>
+      <metrics loc="58" ncloc="55" classes="1" methods="4" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="0" elements="18" coveredelements="0"/>
+    </file>
+    <metrics files="1" loc="58" ncloc="55" classes="1" methods="4" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="14" coveredstatements="0" elements="18" coveredelements="0"/>
   </project>
 </coverage>
